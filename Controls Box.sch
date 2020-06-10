@@ -141,8 +141,6 @@ Text Label 2100 3650 0    50   ~ 0
 +24V
 Wire Wire Line
 	1800 3650 2100 3650
-Text Label 2100 4500 0    50   ~ 0
-+12V
 Wire Wire Line
 	1800 4500 2100 4500
 Text Label 2100 5350 0    50   ~ 0
@@ -248,7 +246,7 @@ Wire Wire Line
 	1800 3200 3400 3200
 Text HLabel 3400 3300 0    50   Input ~ 0
 GND
-Text Label 2100 4550 0    50   ~ 0
+Text Label 2100 4500 0    50   ~ 0
 +24V
 $Comp
 L Connector:Conn_01x02_Female J?
@@ -265,8 +263,6 @@ Wire Wire Line
 	1800 4100 3400 4100
 Text HLabel 3400 4200 0    50   Input ~ 0
 GND
-Text Label 2100 5400 0    50   ~ 0
-+24V
 $Comp
 L Connector:Conn_01x02_Female J?
 U 1 1 5EE89CB6
@@ -282,8 +278,6 @@ Wire Wire Line
 	1800 4950 3400 4950
 Text HLabel 3400 5050 0    50   Input ~ 0
 GND
-Text Label 2100 6250 0    50   ~ 0
-+24V
 $Comp
 L Connector:Conn_01x02_Female J?
 U 1 1 5EE8A4C2
